@@ -1,7 +1,8 @@
 # Upgrade-script-tailscale-on-edgerouter-x
 Shell script for upgrading tailscale on edgerouter x (for personal use...)
 
-This is for those who installed tailscale by the below gist:
+This is for those who installed tailscale by the following gist:
+
 https://gist.github.com/lg/6f80593bd55ca9c9cf886da169a972c3
 
 1. Download a script in `/config/`.
